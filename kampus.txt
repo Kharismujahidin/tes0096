@@ -1,0 +1,4 @@
+progdi : TIK
+jurusan : Teknik Informatika
+Fakultas : FTIK
+Universitas : Universitas Semarang
